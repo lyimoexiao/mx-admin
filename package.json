@@ -130,5 +130,5 @@
     "vite-tsconfig-paths": "4.3.2",
     "windicss": "3.5.6"
   },
-  "packageManager": "pnpm@9.12.2"
+  "packageManager": "pnpm@9.14.2"
 }
